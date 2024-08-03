@@ -1,0 +1,6 @@
+.page__wrapper{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between; /* Размещает элементы равномерно по горизонтали */
+    align-items: stretch; /* Растягивает элементы по высоте контейнера */
+}
